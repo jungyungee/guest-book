@@ -12,8 +12,11 @@
     background-color: beige;
     text-align: center;
 }    
-Header{
-    font-size: 40px;
+nav{
+    text-align: center;
+}
+body{
+    margin: 20% 20%;
 }
 li{
     width: 20%;
