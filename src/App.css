@@ -12,11 +12,12 @@
     background-color: beige;
     text-align: center;
 }    
-nav{
-    text-align: center;
+#guest-list{
+    position: relative;
+    left: 35%;
 }
 body{
-    margin: 20% 20%;
+    margin-top: 20%;
 }
 li{
     width: 20%;

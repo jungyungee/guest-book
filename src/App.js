@@ -26,7 +26,7 @@ function Nav(props){
       </li>)  //키: 자동 생성 태그의 경우 추적하는 근거가 됨!!
   }
 
-  return <nav>
+  return <nav id="guest-list">
           <ol>
             {lis}
           </ol>
