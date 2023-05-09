@@ -38,3 +38,6 @@ a:active {
     color : gray;
     text-decoration: none;
 }
+Article{
+    position: relative;
+}
